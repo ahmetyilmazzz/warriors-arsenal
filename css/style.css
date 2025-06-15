@@ -1,0 +1,125 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.weapon-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.weapon-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.weapon-image {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.form-container {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    padding: 2rem;
+    margin: 2rem 0;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 5rem auto;
+}
+
+.condition-badge {
+    font-size: 0.8rem;
+}
+
+.condition-Mükemmel {
+    background-color: #28a745;
+}
+
+.condition-İyi {
+    background-color: #17a2b8;
+}
+
+.condition-Orta {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.condition-Kötü {
+    background-color: #dc3545;
+}
+
+.table-responsive {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: white;
+    border: none;
+}
+
+.btn-group .btn {
+    margin: 0 2px;
+}
+
+.alert {
+    border-radius: 10px;
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .weapon-image {
+        height: 150px;
+    }
+    
+    .form-container {
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    .login-container {
+        margin: 2rem auto;
+    }
+}
+
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #f3f3f3;
+    border-top: 3px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+footer {
+    margin-top: auto;
+}
+
+html, body {
+    height: 100%;
+}
+
+#root, .main-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
