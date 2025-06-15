@@ -14,9 +14,7 @@
 - [Kurulum](#-kurulum)
 - [Dosya Yapısı](#-dosya-yapısı)
 - [Kullanım](#-kullanım)
-- [Veritabanı Yapısı](#️-veritabanı-yapısı)
 - [Ekran Görüntüleri](#-ekran-görüntüleri)
-- [Katkıda Bulunma](#-katkıda-bulunma)
 - [Lisans](#-lisans)
 
 ---
