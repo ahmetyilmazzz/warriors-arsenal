@@ -206,23 +206,23 @@ historical-weapons-catalog/
 ## 📱 Ekran Görüntüleri
 
 ### 🏠 Ana Sayfa
-![Ana Sayfa](images/ana-sayfa.png)
+![Ana Sayfa](images/ana_sayfa.png)
 *Modern ve kullanıcı dostu ana sayfa tasarımı - İstatistikler ve navigasyon menüsü*
 
 ### 🔐 Giriş Sayfası
-![Giriş Sayfası](images/giris-sayfasi.png)
+![Giriş Sayfası](images/giris_sayfasi.png)
 *Güvenli kullanıcı girişi - Modern form tasarımı*
 
 ### 📝 Kayıt Sayfası
-![Kayıt Sayfası](images/kayit-sayfasi.png)
+![Kayıt Sayfası](images/kayit_sayfasi.png)
 *Yeni kullanıcı kaydı - Kullanıcı dostu form alanları*
 
 ### ➕ Silah Ekleme
-![Silah Ekleme](images/silah-ekleme.png)
+![Silah Ekleme](images/silah_ekleme.png)
 *Yeni silah kayıt formu - Detaylı bilgi giriş alanları*
 
 ### 📋 Silah Listesi
-![Silah Listesi](images/silah-listesi.png)
+![Silah Listesi](images/silah_listesi.png)
 *Gelişmiş arama ve filtreleme özellikleri - Tablo görünümü*
 
 ### 🎨 Arayüz Özellikleri
