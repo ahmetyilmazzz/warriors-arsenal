@@ -245,6 +245,11 @@ historical-weapons-catalog/
 
 ---
 
+## Video Linki  
+https://drive.google.com/file/d/1bmQUtuTxZEmjpqiSVVtyde7dP-LMiMKl/view?usp=sharing
+
+
+---
 ## 📄 Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
